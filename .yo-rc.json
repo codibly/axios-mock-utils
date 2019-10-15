@@ -1,0 +1,9 @@
+{
+  "generator-codibly-ts": {
+    "name": "axios-mock-utils",
+    "description": "",
+    "version": "0.0.0-semantic-release",
+    "repository": "git@github.com:codibly/axios-mock-utils.git",
+    "author": "Łukasz <lukasz.dobosz@codibly.com>"
+  }
+}
